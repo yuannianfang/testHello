@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Module1/Module1.iml" filepath="$PROJECT_DIR$/Module1/Module1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TestTemplte/TestTemplte.iml" filepath="$PROJECT_DIR$/TestTemplte/TestTemplte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testDynaWeb2/testDynaWeb2.iml" filepath="$PROJECT_DIR$/testDynaWeb2/testDynaWeb2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testDynamicWeb/testDynamicWeb.iml" filepath="$PROJECT_DIR$/testDynamicWeb/testDynamicWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testHello.iml" filepath="$PROJECT_DIR$/testHello.iml" />
+    </modules>
+  </component>
+</project>
